@@ -1,2 +1,0 @@
-# joaofsfm.github.io
-coursera
